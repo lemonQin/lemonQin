@@ -1,0 +1,6 @@
+---
+layout: post
+title:  "my blog test"
+date:   2014-03-25 15:53:02
+categories: write test
+---
