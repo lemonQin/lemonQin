@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "我的第一篇blog"
 date:   2014-03-25 11:07:02
 categories: jekyll update
 ---
